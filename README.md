@@ -1,4 +1,5 @@
 # IMDb SQL Analysis
+SQL analysis project using the IMDb Top 1000 Movies dataset with 18 documented queries covering ratings, genres, directors, decades, and outliers.
 
 This project analyzes the IMDb Top 1000 Movies dataset using SQL Server.
 
