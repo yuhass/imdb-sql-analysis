@@ -25,4 +25,4 @@ The project answers questions such as:
 - Which movies perform better than the average rating of their own genre?
 
 ## SQL file
-- imdb-sql-analysis.sql
+- [imdb-sql-analysis.sql](imdb-sql-analysis.sql)
